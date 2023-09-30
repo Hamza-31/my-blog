@@ -1,0 +1,11 @@
+identifier: lan750za48o9xbhc
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: C:\Users\ASUS\Desktop\Angular_projects\my-blog
+distFolder: dist/my-blog
+outDir: C:\Users\ASUS\Desktop\Angular_projects\my-blog\dist\static
+handle404: ''
+allowErrorCollect: true
